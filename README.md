@@ -1,2 +1,13 @@
 # nippo
-Practice for personal or team daily reports
+
+Practice for personal or team daily reports (since 2020.02.04)
+
+## 日報
+
+Githubは基本的に英語で書くらしいんですが、英語は今勉強中なのでまだできません。
+
+ここでは日々の日記や日報を書いていきたいと思っています。
+
+練習中で拙いでしょうが許してください。
+
+なんか日報をmainブランチに置きたかったんですがやり方が分からなかったので、見たい方はmasterブランチまでわざわざ足を運んでくだされ。
